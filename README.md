@@ -7,4 +7,5 @@ A movie search app which uses omdb api and returns results from imdb.
 * Require JS
 * Embedded Javascript (EJS)
 
-
+Dependencies for Running
+Node, Express and RequireJS
