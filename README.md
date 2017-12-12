@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nikhilmufc7/movieSearchApp.svg?branch=master)](https://travis-ci.org/nikhilmufc7/movieSearchApp)
+
 # Movie Search App
 A movie search app which uses omdb api and returns results from imdb.
 
