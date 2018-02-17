@@ -1,5 +1,10 @@
 <h1> Movies listing </h1>
 
+<form action = "/results" method ="GET">
+	<input type="text" placeholder ="Search Again" name ="search">
+	<input type = "submit">
+</form>
+
 <% data["Search"].forEach(function(movie){ %>
 	<li><%= movie["Title"] %> - <%= movie["Year"] %>  </li>
 <% }); %>
